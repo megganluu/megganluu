@@ -2,6 +2,6 @@
 - 🏫 School: UCLA | Class of 2026
 - 📜 I'm studying Computer Science!
 - 👀 I’m interested in product management and front-end development, especially in machine learning and animation.
-- 🌱 I’m currently learning algorithms, digital systems, and graphics.
+- 🌱 I’m currently about natural language processing, operating systems, and engineering of complex systems
 - 📫 How to reach me: mluu1004@ucla.edu or megluu04@gmail.com
 - 😄 Pronouns: she/her
