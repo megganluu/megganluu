@@ -8,3 +8,5 @@
 
 Check out this AI-text detector project I made with a team for Intro to NLP!
 https://github.com/Matthew-Tapia/CS_162_Project
+
+or, watch a demo of my car racing game Render Racers: https://youtu.be/c520gc-XtB4
